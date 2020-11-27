@@ -1,0 +1,17 @@
+{
+  "name": "oc-stream/oc-hrm-plugin",
+  "type": "october-plugin",
+  "description": "No description provided yet...",
+  "homepage": "https://github.com/oc-stream/oc-hrm-plugin",
+  "keywords": ["october", "octobercms", "hrm"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Sukhorukov",
+      "email": "sergey.sukhorukov@prismify.org"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
